@@ -20,7 +20,7 @@ def assign_rooms(names)
   my_arr
 end
 
-# names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
+names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
 
 # puts assign_rooms(names)
 
