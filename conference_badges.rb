@@ -19,3 +19,4 @@ def assign_rooms(names)
     my_arr.push("Hello, #{name}! You'll be assigned to room #{room}")
   end
 end
+
