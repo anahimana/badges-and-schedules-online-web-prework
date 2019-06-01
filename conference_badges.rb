@@ -13,6 +13,7 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(names)
+  my_arr
   (1..7).each do |room|
     puts room
   end
