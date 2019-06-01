@@ -15,6 +15,7 @@ end
 def assign_rooms(names)
   (1..7).each do |room|
     puts room
+  end
 end
 
 names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
