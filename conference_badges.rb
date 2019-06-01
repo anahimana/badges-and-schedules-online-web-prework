@@ -14,5 +14,6 @@ end
 
 def assign_rooms(names)
   (1..7).each do |roo|
+    puts room
 end
 
