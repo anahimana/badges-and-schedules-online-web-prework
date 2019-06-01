@@ -16,5 +16,6 @@ def assign_rooms(names)
   my_arr = []
   names.each do |name|
     (1...7).each |room|
+    my_arr.push()
   end
 end
