@@ -25,7 +25,6 @@ end
 # puts assign_rooms(names)
 
 
-
 def printer
   names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
   puts batch_badge_creator(names)[0]
