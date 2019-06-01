@@ -18,4 +18,5 @@ def assign_rooms(names)
 end
 
 names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
+
 assign_rooms(names)
