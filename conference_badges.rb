@@ -31,4 +31,4 @@ end
 
 names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
 
-printer(names)
+printer()
