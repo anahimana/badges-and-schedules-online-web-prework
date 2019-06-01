@@ -25,4 +25,5 @@ end
 # puts assign_rooms(names)
 
 def printer
+  
 end
