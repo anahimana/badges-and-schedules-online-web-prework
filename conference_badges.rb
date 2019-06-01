@@ -13,7 +13,7 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(names)
-  my_arr
+  my_arr = []
   names.each_with_index do |name, index|
     puts name
     puts index
