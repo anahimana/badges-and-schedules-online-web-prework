@@ -13,11 +13,8 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(names)
-  my_arr = []
-  (0..6).each do |room|
-    my_arr.push("Hello, #{names[room]}! You'll be assigned to room #{room + 1}!")
+  names.each_with_index do |name, index|
   end
-  my_arr
 end
 
 names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
