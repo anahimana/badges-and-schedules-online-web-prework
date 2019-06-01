@@ -12,11 +12,5 @@ def batch_badge_creator(names)
   my_arr
 end
 
-def assign_rooms(names)
-  my_arr = []
-  names.each do |name|
-    puts name
-  end
-  my_arr
-end
+
 
