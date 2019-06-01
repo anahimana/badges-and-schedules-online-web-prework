@@ -20,4 +20,4 @@ end
 
 names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
 
-# puts assign_rooms(names)
+puts assign_rooms(names)
