@@ -27,7 +27,7 @@ names = ["ss", "sfd", "dfds", "sdfd", "fdsfds", "fsdfsd", "fdafda"]
 
 def printer
   batch_badge_creator(names).each do |message|
-    puts messge
+    puts message
   end
   puts assign_rooms(names)[0]
 end
