@@ -16,7 +16,7 @@ def assign_rooms(names)
   my_arr = []
   (0..6).each do |room|
     # my_arr.push("Hello, #{names[room}! You'll be assigned to room #{room}!")
-    my_arr.push(room)
+    my_arr.push(names[room])
   end
   my_arr
 end
