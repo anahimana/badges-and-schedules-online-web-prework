@@ -22,7 +22,7 @@ end
 
 
 
-def printer
+def printer(names)
   batch_badge_creator(names).each do |message|
     puts message
   end
