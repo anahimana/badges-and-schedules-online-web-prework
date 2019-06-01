@@ -15,4 +15,5 @@ end
 def assign_rooms(names)
   my_arr
   names.each do |name|
+  end
 end
